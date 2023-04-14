@@ -15,9 +15,7 @@ build/
 *.war
 *.ear
 *.iml
-*.log
-*.tar.gz
-*.zip
+*44
 *.MF
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
